@@ -8,6 +8,7 @@ export default class User extends Component {
         <button>Logout</button>
         <h1>Dhoom 3</h1>
         <h1>Ind</h1>
+        <h1>SA</h1>
       </div>
     )
   };
